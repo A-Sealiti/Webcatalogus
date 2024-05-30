@@ -1,0 +1,70 @@
+[
+    {
+        "product_id": "NewBalance1234",
+        "name": "New Balance 1906R",
+        "category": "jogging Shoes",
+        "price": 159.99,
+        "color": "Silver Metallic-Silver Metallic-Green",
+        "sizes": [
+            "37",
+            "37,5",
+            "38"
+        ],
+
+        "imageURL": "https://i2.wp.com/hypebeast.com/image/2022/08/new-balance-1906r-white-grey-M1906RD-release-info-00.png?fit=1125",
+        "gender": "Women",
+        "rating": 4.5
+    },
+    {
+        "product_id": "315215466202",
+        "name": "New Balance 2002R",
+        "category": "Running Shoes",
+        "price": 149.99,
+        "color": "Magnet-Grey-Timberwolf",
+        "sizes": [
+            "37",
+            "37,5",
+            "38",
+            "38,5"
+        ],
+        "gender": "Women",
+        "description": "Lightweight and responsive",
+        "imageURL": "https://www.bing.com/th?id=OPE.PmB3GiQclrz%2bAA300C300&pid=21.1&w=142&h=142&qlt=100&dpr=1",
+        "rating": 5.0
+    },
+    {
+        "product_id": "315346864002",
+        "name": "New Balance 550",
+        "category": "Running Shoes",
+        "price": 139.99,
+        "color": "White-Grey",
+        "sizes": [
+            "37",
+            "37,5",
+            "38",
+            "38,5"
+        ],
+        "gender": "Women",
+        "description": "Softest mesh cushioning",
+        "imageURL": "https://www.bing.com/th?id=OPE.cMuNHPYQuvLMlg300C300&pid=21.1&w=130&h=130&qlt=100&dpr=1&bw=6&bc=FFFFFF"
+    },
+    {
+        "id": 2,
+        "name": "New Balance 530",
+        "brand": "New Balance",
+        "gender": "Women",
+        "category": "RUNNING",
+        "price": 119.99,
+        "is_in_inventory": true,
+        "sizes": [
+            "37",
+            "37,5",
+            "38",
+            "38,5"
+        ],
+        "items_left": 3,
+        "imageURL": "https://www.bing.com/th?id=OPE.z4wdrvNsc0K2Gw300C300&pid=21.1&w=130&h=130&qlt=100&dpr=1&bw=6&bc=FFFFFF",
+        "featured": 0
+    }
+
+]

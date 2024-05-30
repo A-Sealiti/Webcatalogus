@@ -1,0 +1,75 @@
+[
+    {
+      "product_id": "NewBalance1",
+      "name": "NBX Lunar New Year Knit Pant",
+      "brand":"New Balance",
+      "category": "fleece sweatpants",
+      "price": "95.00",
+      "color": " Timberwolf",
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "imageURL": "https://nb.scene7.com/is/image/NB/wp41332twf_nb_30_i?$dw_detail_main_lg$&bgc=f1f1f1&layer=1&bgcolor=f1f1f1&blendMode=mult&scale=10&wid=1600&hei=1600",
+      "gender": "Women",
+      "rating": 5.0
+    },
+    {
+        "product_id": "NewBalance2",
+        "name": "Made in USA Pintuck Short",
+        "brand":"New Balance",
+        "category": "Running Shorts",
+        "price": "155.00",
+        "color": "Team Royal",
+        "sizes": ["XS", "S", "M", "L", "XL"],
+        "imageURL": "https://nb.scene7.com/is/image/NB/ms31541try_nb_70_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+        "gender": "Women",
+        "rating": 4.5
+      },
+      {
+        "product_id": "NewBalance3",
+        "name": "MADE in USA Core Sweatpant",
+        "brand":"New Balance",
+        "category": "Sweatpant ",
+        "price": "185.00",
+        "color": " Athletic Grey",
+        "sizes": ["XS", "S", "M", "L", "XL"],
+        "imageURL": "https://nb.scene7.com/is/image/NB/mp21547ag_nb_70_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+        "gender": "Women",
+        "rating": 4.0
+      },
+      {
+        "product_id": "NewBalance4",
+        "name": "Made in USA Woven Pant",
+        "brand":"New Balance",
+        "category": "Woven Pant",
+        "price": "185.00",
+        "color": "Team Royal",
+        "sizes": ["XS", "S", "M", "L", "XL"],
+        "imageURL": "https://nb.scene7.com/is/image/NB/mp31541try_nb_70_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+        "gender": "Kids",
+        "rating": 3.5
+      },
+
+      {
+        "product_id": "NewBalance5",
+        "name": "FC Porto Travel Short",
+        "brand":"New Balance",
+        "category": "Travel Short",
+        "price": "50.00",
+        "color": "Navy",
+        "sizes": ["L", "XL"],
+        "imageURL": "https://nb.scene7.com/is/image/NB/ms231344nv_nb_42_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+        "gender": "Women",
+        "rating": 5.0
+      },
+      {
+        "product_id": "NewBalance6",
+        "name": "Impact Run 5 Inch Short",
+        "brand":"New Balance",
+        "category": "Running Shorts",
+        "price": "22,50",
+        "color": "Black",
+        "sizes": ["XS", "S", "M", "L", "XL"],
+        "imageURL": "https://nb.scene7.com/is/image/NB/ms21268vbk_nb_40_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+        "gender": "Women",
+        "rating": 5.0
+      }
+]

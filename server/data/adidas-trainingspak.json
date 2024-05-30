@@ -1,0 +1,90 @@
+[
+    {
+        "id": 26,
+        "name": "adidas originals",
+        "brand": "ADIDAS",
+        "gender": "Kids",
+        "category": "CASUAL",
+        "price": 70,
+        "is_in_inventory": true,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+        ],
+        "items_left": 6,
+        "imageURL": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/157bf586b7794435b732ac8200bc7039_9366/Adicolor_SST_Trainingspak_Zwart_GN8441_01_laydown.jpg",
+        "slug": "adidas originals",
+        "featured": 0
+    },
+    {
+        "id": 27,
+        "name": "X_PLR",
+        "brand": "ADIDAS",
+        "gender": "Kids",
+        "category": "CASUAL",
+        "price": 65,
+        "is_in_inventory": true,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+        ],
+        "items_left": 5,
+        "imageURL": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e063c510fb2c4307b1ffa89d030876ac_9366/Linear_Trainingspak_Zwart_HZ2258_21_model.jpg",
+        "slug": "x_plr",
+        "featured": 1
+    },
+    {
+        "id": 28,
+        "name": "adidas originals blue",
+        "brand": "ADIDAS",
+        "gender": "Kids",
+        "category": "CASUAL",
+        "price": 55,
+        "is_in_inventory": true,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+        ],
+        "items_left": 3,
+        "imageURL": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f7a341a843f4f53bc9aaf1900e0b0ed_9366/Basic_3-Stripes_Tricot_Trainingspak_Blauw_IC6761_21_model.jpg",
+        "slug": "adidas originals blue",
+        "featured": 0
+    },
+    {
+        "id": 29,
+        "name": "adidas originals green",
+        "brand": "ADIDAS",
+        "gender": "Kids",
+        "category": "RUNNING",
+        "price": 120,
+        "is_in_inventory": true,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+        ],
+        "items_left": 3,
+        "imageURL": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/386d8071f85742e7a6d3c49e91455535_9366/Adicolor_Classics_SST_Trainingsjack_Groen_IR9863_21_model.jpg",
+        "slug": "adidas originals green",
+        "featured": 0
+    }
+]

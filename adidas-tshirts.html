@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1:1</title>
+    <link rel="icon" href="img/logo.png" type="image/png" sizes="auto">
+    <link rel="stylesheet" href="/css/style.css">
+    <!-- <link rel="stylesheet" href="/css/checkout.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+
+</head>
+
+<body>
+
+    <header>
+        <div id="logo">
+            <a href="index.html">
+                <img src="/img/Logo.png" alt="Logo">
+            </a>
+        </div>
+        </div>
+
+        <nav>
+            <div class="buttons">
+                <a href="index.html">Algemeen</a>
+                <a href="heren.html">Heren</a>
+                <a href="dames.html">Dames</a>
+                <a href="Kids.html">Kids</a>
+                <a href="sale.html">Sale</a>
+                <a href="contact.html">Contact</a>
+                <a href="about.html">about ons</a>
+                <a href="winkel.html"></a>
+                <a href="inlog.html"></a>
+
+            </div>
+            <div class="hamburger-menu">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+        </nav>
+        <div class="header-icons">
+            <div class="user-icon" id="user-icon">
+                <i class="fas fa-user"></i>
+                <div class="user-options">
+                    <a href="inlog.html">
+                        <button id="login-btn">inloggen</button>
+                    </a>
+                    <i class="user-options">
+                        <a href="signup.html">
+                    </i>
+                    <button id="register-btn">Registreren</button>
+                    </a>
+                    <div>
+                        <i class="fas fa-home"></i>
+                        <span>Mijn account</span>
+                    </div>
+                    <div>
+                        <i class="fas fa-shopping-cart"></i>
+                        <span>Mijn bestellingen</span>
+                    </div>
+                    <div>
+                        <i class="fas fa-heart"></i>
+                        <span>Mijn verlanglijst</span>
+                    </div>
+                </div>
+            </div>
+            <div id="cart">
+                <span id="cart-count">
+                    <a href="winkel.html">
+                </span>
+                <i class="fas fa-shopping-cart"></i></a>
+            </div>
+            
+        </div>
+        
+    </header>
+
+    <div class="Nieuwe-artikelen">
+        <h2>Nieuwe Releases</h2>
+    </div>
+    <main>
+
+        <section id="menu-container">
+
+            <ul id="menu-items">
+            </ul>
+            <ul>
+        
+
+                <li><a href="sale.html">
+                        <h3>Sale en aanbiedingen </h3>
+                    </a></li>
+            </ul>
+            <div id="nav-filter">
+                <h3 onclick="toggleAccordion('gender')">
+                    Geslacht
+                    <span class="chevron collapsed">&#9662;</span>
+                </h3>
+                <div id="gender-options" class="filter-options">
+                    <!-- Voeg hier de filteropties voor geslacht toe -->
+                    <label><input type="checkbox" value="male"> Man</label>
+                    <label><input type="checkbox" value="female"> Vrouw</label>
+                </div>
+            </div>
+
+            
+
+
+            <!-- hier komt opties voor kiezen  -->
+            <h2>Kleur</h2>
+            <!-- hier komt opties voor kiezen  -->
+            <h2>Sport</h2>
+            
+            <ul class="dropdown">
+                <li><h3>Merken <span class="chevron">&#9662;</span></h3>
+                    <ul class="dropdown-content">
+                        <li class="sub-dropdown"><a href="#">Nike <span class="chevron">&#9662;</span></a>
+                            <ul class="sub-dropdown-content">
+                                <li><a href="./nike.html">Schoenen</a></li>
+                                <li><a href="./niketshirts.html">T-shirts</a></li>
+                                <li><a href="./niketranigspak.html">Trainingspakken</a></li>
+                            </ul>
+                        </li>
+                        <li class="sub-dropdown"><a href="#">Adidas <span class="chevron">&#9662;</span></a>
+                            <ul class="sub-dropdown-content">
+                                <li><a href="./adidas-schoenen.html">Schoenen</a></li>
+                                <li><a href="./adidas-tshirts.html">T-shirts</a></li>
+                                <li><a href="./adidas-traingspakken.html">Trainingspakken</a></li>
+                            </ul>
+                        </li>
+
+                        
+                        <li><a href="#">New Balance</a></li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h2>Pasvorm</h2>
+            <!-- hier komt opties voor kiezen  -->
+            <h2>Fleece</h2>
+            <!-- hier komt opties voor kiezen  -->
+        </section>
+
+
+        <section id="product-container" class="product-grid">
+        </section>
+        <div class="add-to-cart"></div>
+        
+        
+
+        
+        <div class="product-container">
+            <ul id="nikeList" class="cards"></ul>
+            <ul id="newBalanceList" class="cards"></ul>
+            <ul id="adidasList" class="cards"></ul>
+        </div>
+
+
+        
+    </main>
+
+
+    <footer>
+        <p>&copy; 2024 FKN-Rijk_Goons. Alle rechten voorbehouden.</p>
+    </footer>
+
+    <script src="/JS/main.js"></script>
+    <script src="JS/contact.js"></script>
+    <script src="JS/cards.js"></script>
+    <!-- <script src="JS/Kids.js"></script> -->
+    
+
+
+
+
+</body>
+
+</html>

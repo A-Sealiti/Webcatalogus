@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Sportswear T-Shirt",
+        "brand": "Nike",
+        "gender": "men",
+        "category": "T-shirts",
+        "price": 30,
+        "is_in_inventory": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "items_left": 15,
+        "imageURL": "https://th.bing.com/th/id/OIP.o3eOxMq5XYFJ009jqkQTbAHaHa?rs=1&pid=ImgDetMain",
+        "slug": "nike-sportswear-tshirt",
+        "featured": 1
+    },
+    {
+        "id": 2,
+        "name": "Nike Women's Dri-FIT Graphic Training T-Shirt",
+        "brand": "Nike",
+        "gender": "Women",
+        "category": "T-shirts",
+        "price": 35,
+        "is_in_inventory": true,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "items_left": 10,
+        "imageURL": "https://th.bing.com/th/id/OIP.6L7gTyGZZIID8dyK-YBn9AHaHa?rs=1&pid=ImgDetMain",
+        "slug": "nike-dri-fit-graphic-training-tshirt",
+        "featured": 0
+    },
+    {
+        "id": 3,
+        "name": "Nike men's Legend Dri-FIT Training T-Shirt",
+        "brand": "Nike",
+        "gender": "men",
+        "category": "T-shirts",
+        "price": 25,
+        "is_in_inventory": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "items_left": 8,
+        "imageURL": "https://cdn11.bigcommerce.com/s-ob1gxw6h/images/stencil/640w/products/1713/2154/Screen_Shot_2019-11-27_at_9.38.17_AM__46535.1575051578.png?c=2",
+        "slug": "nike-legend-dri-fit-training-tshirt",
+        "featured": 0
+    },
+    {
+        "id": 4,
+        "name": "Nike Women's NSW Crop T-Shirt",
+        "brand": "Nike",
+        "gender": "Women",
+        "category": "T-shirts",
+        "price": 40,
+        "is_in_inventory": true,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "items_left": 12,
+        "imageURL": "https://i.pinimg.com/originals/af/7a/00/af7a00bc35ca3f644915a97268e76e0c.png",
+        "slug": "nike-NSW Crop-tshirt",
+        "featured": 1
+    },
+    {
+        "id": 5,
+        "name": "Nike Flex Rep T-Shirt",
+        "brand": "Nike",
+        "gender": "men",
+        "category": "T-shirts",
+        "price": 20,
+        "is_in_inventory": true,
+        "sizes": [
+            "xS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "items_left": 5,
+        "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/30298abe-670c-4152-9243-23438bdcb000/flex-rep-dri-fit-fitnesstop-met-korte-mouwen-heren-ZdDlp8.png",
+        "slug": "nike-Flex Rep tshirt",
+        "featured": 0
+    },
+    {
+        "id": 6,
+        "name": "Nike-Ready T-Shirt",
+        "brand": "Nike",
+        "gender": "men",
+        "category": "T-shirts",
+        "price": 42.99,
+        "is_in_inventory": true,
+        "sizes": [
+            "xS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "items_left": 5,
+        "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a8a1cb32-47d5-4d95-9bc3-0aa841fefbbc/ready-dri-fit-fitnesstop-met-korte-mouwen-heren-ckx8K3.png",
+        "slug": "nike-Ready tshirt",
+        "featured": 0
+    },
+        {
+          "id": 1,
+          "name": "Nike Kids T-shirt - Zwart",
+          "brand": "Nike",
+          "gender": "Kids",
+          "category": "T-shirt",
+          "price": 20,
+          "is_in_inventory": true,
+          "sizes": ["S (6-8Y)", "M (8-10Y)", "L (10-12Y)", "XL (12-13Y)"],
+          "items_left": 25,
+          "imageURL": "https://img01.ztat.net/article/spp-media-p1/d3cb4aef5b57332c837f842a21b8a3a0/9ee4abf9f0294167a66a5612bbeb2ebf.jpg?imwidth=1800&filter=packshot",
+          "slug": "nike-Kids-tshirt-zwart",
+          "featured": 1
+        },
+        {
+          "id": 2,
+          "name": "Nike Kids T-shirt - Wit",
+          "brand": "Nike",
+          "gender": "Kids",
+          "category": "T-shirt",
+          "price": 18,
+          "is_in_inventory": true,
+          "sizes": ["S (6-8Y)", "M (8-10Y)", "L (10-12Y)", "XL (12-13Y)"],
+          "items_left": 30,
+          "imageURL": "https://img01.ztat.net/article/spp-media-p1/784643bc57c239d591041fb03dea7ca5/32d0a59364014c588fc4f2717311ed4e.jpg?imwidth=762",
+          "slug": "nike-Kids-tshirt-wit",
+          "featured": 0
+        },
+        {
+          "id": 3,
+          "name": "Nike Kids T-shirt - Blauw",
+          "brand": "Nike",
+          "gender": "Kids",
+          "category": "T-shirt",
+          "price": 22,
+          "is_in_inventory": true,
+          "sizes": ["S (6-8Y)", "M (8-10Y)", "L (10-12Y)", "XL (12-13Y)"],
+          "items_left": 20,
+          "imageURL": "https://img01.ztat.net/article/spp-media-p1/d05c524959c143cf9a5425293b99bfea/76e14b54d79e4d4baa59c9a2b35ccfe3.jpg?imwidth=762&filter=packshot",
+          "slug": "nike-Kids-tshirt-blauw",
+          "featured": 1
+        },
+        {
+          "id": 4,
+          "name": "Nike Kids T-shirt - Rood",
+          "brand": "Nike",
+          "gender": "Kids",
+          "category": "T-shirt",
+          "price": 25,
+          "is_in_inventory": true,
+          "sizes": ["S (6-8Y)", "M (8-10Y)", "L (10-12Y)", "XL (12-13Y)"],
+          "items_left": 15,
+          "imageURL": "https://img01.ztat.net/article/spp-media-p1/ab23b6a07b1e37d7adac4b6042561c1f/125f8b0cdac148ca80a57ff78055cce4.jpg?imwidth=762",
+          "slug": "nike-Kids-tshirt-rood",
+          "featured": 0
+        },
+        {
+          "id": 5,
+          "name": "Nike Kids T-shirt - Groen",
+          "brand": "Nike",
+          "gender": "Kids",
+          "category": "T-shirt",
+          "price": 23,
+          "is_in_inventory": true,
+          "sizes": ["S (6-8Y)", "M (8-10Y)", "L (10-12Y)", "XL (12-13Y)"],
+          "items_left": 18,
+          "imageURL": "https://img01.ztat.net/article/spp-media-p1/f8d684b4398847eaa8c65ba8fdef0c68/0ad302d90aad4a029bd09bc132f48e84.jpg?imwidth=762&filter=packshot",
+          "slug": "nike-Kids-tshirt-groen",
+          "featured": 1
+        }
+      
+]

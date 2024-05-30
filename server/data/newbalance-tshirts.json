@@ -1,0 +1,73 @@
+[
+  {
+    "product_id": "NewBalance1",
+    "name": "Professional Athletic T-Shirt",
+    "brand":"New Balance",
+    "category": " basic T-shirt ",
+    "price": 30.00,
+    "color": "Black",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "imageURL": "https://nb.scene7.com/is/image/NB/mt33916bk_nb_40_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+    "gender": "Women",
+    "rating": 5.0
+  },
+  {
+    "product_id": "315215466202",
+    "name": "9060 Sketch T-Shirt",
+    "brand":"New Balance",
+    "category": "relaxed-fit T-shirt",
+    "price": 30.00,
+    "color": "Athletic grey",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "gender": "Women",
+    "imageURL": "https://nb.scene7.com/is/image/NB/mt41940ag_nb_72_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+    "rating": 5.0
+  },
+  {
+    "product_id": "315346864002",
+    "name": "MADE in USA 1982 Run Club Tee",
+    "brand":"New Balance",
+    "category": "Jersey shirt",
+    "price": 80.00,
+    "color": "Dawn glow",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "gender": "Women",
+    "imageURL": "https://nb.scene7.com/is/image/NB/mt31546dgl_nb_70_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+    "rating":5.0
+  },
+  {
+    "product_id": "315346864055",
+    "name": "Made in USA Apple Graphic Tee",
+    "brand":"New Balance",
+    "gender": "Kids",
+    "category": "Jersey shirt",
+    "color":"Dawn glow",
+    "price": 80.00,
+    "sizes": ["S", "M", "L", "XL"],
+    "imageURL": "https://nb.scene7.com/is/image/NB/mt31547dgl_nb_70_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+    "ratings": 4.5
+  },
+  {
+    "product_id": "315346864013",
+    "name": "MADE in USA Track T-Shirt",
+    "brand":"New Balance",
+    "gender": "Women",
+    "category": "Jersey shirt",
+    "color": "Afterglow",
+    "price": 90.00,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "imageURL": "https://nb.scene7.com/is/image/NB/mt23541afg_nb_71_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
+  },
+  {
+    "product_id": "315346864002",
+    "name": "Boston T-Shirt",
+    "brand": "New Balance",
+    "gender": "men",
+    "category": " basic T-shirt ",
+    "color": "True Camo",
+    "price": 35.00,
+    "sizes": ["XS"],
+    "imageURL": "https://nb.scene7.com/is/image/NB/mt23608tco_nb_40_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+    "ratings":"5.0"
+  }
+]

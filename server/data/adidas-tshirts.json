@@ -1,0 +1,90 @@
+[
+    {
+        "id": 26,
+        "name": "adidas originals tshirt",
+        "brand": "ADIDAS",
+        "gender": "Kids",
+        "category": "CASUAL",
+        "price": 55,
+        "is_in_inventory": true,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+        ],
+        "items_left": 6,
+        "imageURL": "https://assets.adidas.com/images/w_600,f_auto,q_auto/825d33b9f25a4a69b2baac4600ea0e04_9366/Essentials_Big_Logo_T-shirt_Zwart_GK9120_01_laydown.jpg",
+        "slug": "adidas originals tshirt",
+        "featured": 0
+    },
+    {
+        "id": 27,
+        "name": "adidas stripe shirt",
+        "brand": "ADIDAS",
+        "gender": "Kids",
+        "category": "CASUAL",
+        "price": 65,
+        "is_in_inventory": true,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+        ],
+        "items_left": 5,
+        "imageURL": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/67f3542aaff040f9a29aae59002423e3_9366/Adicolor_3-Stripes_T-shirt_Zwart_HK2913_01_laydown.jpg",
+        "slug": "adidas stripe shirt",
+        "featured": 1
+    },
+    {
+        "id": 28,
+        "name": "adidas stripe white shirt",
+        "brand": "ADIDAS",
+        "gender": "Kids",
+        "category": "CASUAL",
+        "price": 55,
+        "is_in_inventory": true,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+        ],
+        "items_left": 3,
+        "imageURL": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/511002d1f6e64236b321ae5500a72126_9366/Adicolor_3-Stripes_T-shirt_Wit_HK0265_01_laydown.jpg",
+        "slug": "adidas stripe white shirt",
+        "featured": 0
+    },
+    {
+        "id": 29,
+        "name": "adidas stripe blue shirt",
+        "brand": "ADIDAS",
+        "gender": "Kids",
+        "category": "RUNNING",
+        "price": 120,
+        "is_in_inventory": true,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+        ],
+        "items_left": 3,
+        "imageURL": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/70268ea39a8440d4ab8faf12008edd13_9366/Adicolor_Classics_3-Stripes_T-shirt_Blauw_IA4850_21_model.jpg",
+        "slug": "adidas stripe blue shirt",
+        "featured": 0
+    }
+]
